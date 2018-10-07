@@ -1,4 +1,4 @@
-# tensile surface logo generator
+# Tensile surface logo generator
 <p>3D mesh generator for the tensile surface logo</p>
 
 ![img](https://i.imgur.com/UQuyOhz.png)
